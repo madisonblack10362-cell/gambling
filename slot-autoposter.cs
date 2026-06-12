@@ -96,7 +96,7 @@ var allSlots = new List<Dictionary<string, string>>
     new Dictionary<string, string> { {"name","Jammin' Jars"}, {"provider","Push Gaming"}, {"rtp","96.83"}, {"vol","Высокая"}, {"features","Каскадные спины, прыгающие вайлды, фриспины"}, {"theme","фрукты диско музыка"} },
 
     // Hacksaw Gaming
-    new Dictionary<string, string> { {"name","Wanted Dead or a Wild"}, {"provider","Hacksaw Gaming"}, {"rtp","96.38"}, {"vol","Очень высокая"}, {"features","3 бонуса, дуэль, липкие вайлды, множители"}, {"theme":"дикий запад перестрелка"} },
+    new Dictionary<string, string> { {"name","Wanted Dead or a Wild"}, {"provider","Hacksaw Gaming"}, {"rtp","96.38"}, {"vol","Очень высокая"}, {"features","3 бонуса, дуэль, липкие вайлды, множители"}, {"theme","дикий запад перестрелка"} },
     new Dictionary<string, string> { {"name","Cubes 2"}, {"provider","Hacksaw Gaming"}, {"rtp","96.33"}, {"vol","Высокая"}, {"features","Кластерные выплаты, цветные бонусы, фриспины"}, {"theme","кубы минимализм"} },
 
     // ELK Studios
